@@ -46,12 +46,8 @@ the future of DeFi is bright and full of opportunities. As blockchain technology
 
 I hope this article helped you, if you liked it please star this repo and share it with your friends.
 
-## Authors
+## Author:
 
 - [Sagar Goswami](https://github.com/sagargoswami2001)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagar_goswami.2001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagargoswami2001)
-
-- Prachi Singhal
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prachisinghal61)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi-singhal-957a01262)
